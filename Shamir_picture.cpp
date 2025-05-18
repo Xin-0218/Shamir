@@ -539,7 +539,7 @@ int main()
     {
         rowSize = w * 3;
     }
-    cout << rowSize << endl;
+    //cout << rowSize << endl;
     dataSize = rowSize * h;
 
     FILE* fp_r;
